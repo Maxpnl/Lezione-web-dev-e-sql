@@ -40,3 +40,7 @@ Ci sono un totale di 12 corsie.
 - Struttura il database in modo che sia possibile gestire le prenotazioni e i corsi.
 - Implementa l'endpoint per la creazione di un corso da un istruttore (senza autenticazione).
 - Implementa l'endpoint per la prenotazione di un corso da un tesserato (senza autenticazione).
+
+
+# Esercizio 3
+Un mercato vuole poter dare alle proprie bancarelle la possibilità mettere in mostra i prodotti che vendono, strutturare il database per gestire questa casistica.
