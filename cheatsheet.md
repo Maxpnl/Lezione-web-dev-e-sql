@@ -242,7 +242,7 @@ Ci andiamo a creare un file HTML per ogni rotta che abbiamo creato, ad esempio:
  {% endfor %}
  </ul>
 </html>
-```html
+```
 ```html
 <!-- Questo è il nostro nuovo_prodotto.html -->
 <html>
@@ -253,6 +253,7 @@ Ci andiamo a creare un file HTML per ogni rotta che abbiamo creato, ad esempio:
     <input type="submit" value="Registrati">
  </form>
 </html>
+```
 ```html
 <!-- Questo è il nostro successo.html -->
 <html>
