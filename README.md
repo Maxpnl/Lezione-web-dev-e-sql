@@ -1,3 +1,6 @@
+# Cheatsheet
+[cheatsheet](./cheatsheet.md)
+
 # Esercizio 1
 
 Implementare gli endpoint `/login` e `/register`, il login dovrà solo controllare
